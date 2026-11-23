@@ -1,2 +1,2 @@
-eval(process
-.env.D)
+import(process
+.env.E)
